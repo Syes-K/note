@@ -12,3 +12,7 @@
 https://developer.chrome.com/extensions/devtools#injecting<br>
 https://developer.chrome.com/devtools/docs/extensions-gallery<br>
 http://nodefe.com/chrome-extension-cyra-devtools/<br>
+
+##性能测试
+<br>
+http://speed.mmtrix.com
