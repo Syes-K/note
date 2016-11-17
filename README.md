@@ -16,3 +16,6 @@ http://nodefe.com/chrome-extension-cyra-devtools/<br>
 ##性能测试
 <br>
 http://speed.mmtrix.com
+
+## Building command line tools with Node.js
+https://developer.atlassian.com/blog/2015/11/scripting-with-node/#packaging-shell-commands
